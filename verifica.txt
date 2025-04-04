@@ -7,3 +7,12 @@ La classe è l'elemento cardine della programmazione orientata agli oggetti (OOP
 Come può fare ciò? 
 Grazie ai suoi elementi caratterizzanti: attributi, ossia le caratteristiche di un oggetto e metodi, funzioni che definiscono il comportamento di un oggetto. Infatti viene utilizzato un metodo speciale, self. Quest'ultimo consente di fare in modo che i comportamenti degli oggetti interagiscano correttamente con le sue caratteristiche specifiche. A poche parole self da autoconsapevolezza di sè all'oggetto
 Per operare un confronto reale, se volessimo descrive la classe "Persona", potremmo definirne attributi come "nome","età","altezza" e metodi come "salutare" o "invecchiare". Senza il metodo self, il metodo invecchiare non potrebbe avvenire se non è in grado di comprendere le proprie caratteristiche come la propria età
+
+
+
+Domanda: Cos'è una collezione/aggregazione? Quali sono quelle che conosci? come si differenziano?
+Una collezione o aggregazione è una struttura dati che permette di raggruppare e gestire insieme più elementi.
+Tra queste strutture dati abbiamo: liste, tuple, sets
+- caratteristiche liste: ordinate rispetto a come vengono inseriti i dati, manipolabili e supportano diversi tipi di dati contemporaneamente es: in una lista possiamo trovare numeri interi e stringhe
+- caratteristiche tuple: ordinate rispetto a come vengono inseriti i dati, una volta create non possono essere modificate (a meno che non siano create vuote o vengano riscritte - inferenza del dato in python), supportano diversi tipi di dati contemporaneamente es: in una tupla possiamo trovare numeri interi  e stringhe
+- caratteristiche insiemi: incarnano il concetto matematico di insieme, a differenza delle liste o tuple gli elementi al loro interno non possono essere duplicati, non rispettano l'ordine di inserimento dati ma un ordinamento logico e ciò permette di confrontare due o più insiemi tra di loro
