@@ -1,1 +1,8 @@
+Domanda: Cos'è Una classe? A che serve il self?
+Una classe è un modello che definisce la struttura o il comportamento di un oggetto.
+Banalmente, può essere paragonata ad uno stampino per biscotti e fornisce loro la forma e le giuste dimensioni
 
+La classe è l'elemento cardine della programmazione orientata agli oggetti (OOP), poichè consente di rappresentare la realtà nella programmazione, attraverso istanze (o oggetti) con proprietà e comportamenti coerenti al mondo reale.
+
+Come può fare ciò? 
+Grazie ai suoi elementi caratterizzanti: attributi, ossia le caratteristiche di un oggetto e metodi, funzioni che definiscono il comportamento di un oggetto. Per operare un confronto reale, se volessimo descrive la classe "Persona", potremmo definirne attributi come "nome","età","altezza" e metodi come "salutare" o "invecchiare"
